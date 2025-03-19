@@ -3,7 +3,6 @@ body{
     flex-direction: column;
     align-items: center;
 }
-.container{
-    background-image: url(assets/ooo.jpg);
-    height: 850px;
+.cat{
+    height: 800px;
 }
